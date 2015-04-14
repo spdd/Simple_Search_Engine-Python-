@@ -1,0 +1,593 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Процессоры / Комплектующие. Продажа в г. Иркутск</title>
+<meta name="keywords" content="купить, ноутбуки Иркутск, компьютеры Иркутск, мониторы Иркутск, сотовые телефоны Иркутск, продажа в Иркутск, широкий выбор, низкие цены, Сеть компьютерных центров DNS, Intel, AMD, Nvidia, Acer, Asus, Samsung, SONY, HP, LG, Nokia, Canon, Epson, Benq, Brother, Dell, ViewSonic, Fujitsu-Siemens, Gigabyte, Toshiba, Microsoft, WD, Philips, Olympus, MSI">
+<meta name="description" content="Сеть компьютерных центров DNS в Иркутск: Процессоры, Комплектующие, продажа в Иркутск, широкий выбор, низкие цены">
+<meta http-equiv="Content-Type"
+	content="text/html; charset=windows-1251" />
+<style type="text/css" media="all">@import "/style.css?15";	@import "/engine/templates/lib.css";
+</style> 
+<link rel="SHORTCUT ICON" href="/favicon.ico" />
+<link title="" type="application/rss+xml" rel="alternate"
+	href="http://www.dns-shop.ru/news_xml.php?region=3" />
+<script src="/engine/templates/jquery-1.4.4.min.js"></script>
+<script src="/engine/templates/jquery.address-1.3.1.min.js"></script>
+<script src="/engine/templates/jquery.cookie.js"></script>
+<script src="/engine/templates/swfobject.js"></script>
+<script src="/engine/templates/scripts.js"></script>
+<script language="JavaScript" src="/common.js?14"></script>
+<script language="JavaScript"
+	src="/lib/JsHttpRequest/JsHttpRequest/JsHttpRequest.js"></script>
+<script language="JavaScript" src="/keyevents.js"></script>
+<script language="JavaScript" src="/check.js"></script>
+</head>
+<body onclick="close_tread('search_popup')">
+
+
+<div id="mm">
+<ul id="tabs" style="float: right;">
+	<li id="region_tab" class="sel"><a href="#"
+		onClick="if(document.getElementById('shapka_common').style.display=='none'){change_shapka();}"><span>Иркутск</span></a></li>
+	<li id="select_region_tab"><a style="font-size: 9px; margin-top: 5px;"
+		href="#" onClick='change_shapka();'
+		!onClick='open_tread("shapka_regions"); close_tread("shapka_common");'
+		!onMouseOver='open_tread("shapka_regions"); close_tread("shapka_common");'
+		!onMouseOut='close_tread("shapka_regions"); open_tread("shapka_common");'><span>Другие
+	города</span></a></li>
+</ul>
+</div>
+
+<div id="shapka_common">
+<div id="head">
+<div class="frame">
+
+<div style="float: left;"><a href="./"><img class="logo" alt="DNS"
+	src="../i/logo_alien.png" /></a></div>
+<!--<div style="float:left;"><a href="./"><img class="logo" alt="DNS" src="../i/dns_logo_ny-02.png"/></a></div>-->
+
+<div style="float: left; margin: 0px; padding-top: 12px;">
+<div class="banner-1" style="width:300px;height:150px;"><div style="position:absolute;z-index:1000;"><a href="/engine/lib/core.php?mode=pure&class=banner&function=redirect&id=190&region=irk" alt=""><img src="/i/spacer.gif" width="300px" height="150px" /></a></div><div id="flashbanner190"></div>
+							</div>					<script type="text/javascript">
+					
+					var flashvars = {};
+					
+					var params = {};
+					params.scale = "noscale";
+					params.salign = "tl";
+					params.wmode = "transparent";
+								
+					
+					var attributes = {};
+					
+					swfobject.embedSWF("/i/ad/Essential3.0_300x150.swf", "flashbanner190", "300", "150", "9.0.0","/engine/templates/expressInstall.swf", flashvars, params, attributes);
+					
+					</script>			</div>
+
+<div style="float: right; width: 320px; margin-top: 12px;">
+
+<table id="sb">
+	<tr>
+		<th class="s_sel" id="tab_scat"><A Href=#
+			onclick='select_form("cat");'>В КАТАЛОГЕ</A></th>
+		<th class="s_unsel" id="tab_ssite"><A Href=#
+			onclick='select_form("site");'>НА САЙТЕ</A></th>
+	</tr>
+	<tr>
+		<td colspan="2">
+		<div id="cat_search">
+		<div id="search">
+		<form method="get" action="search.php" name="cat_search_form">
+		<div id="search_popup"></div>
+		<div id="search_input"><input type="text" name="q" id="q"
+			autocomplete="off" value=""
+			style="width: 225px; margin: 1px;" onkeyup="qsearch_update()"
+			!onblur="close_tread('search_popup')" /></div>
+		<input type="image" src="../i/bsl.gif" align="top" alt="поиск"
+			title="поиск"><br clear=all>
+		</form>
+		</div>
+		</div>
+		<div style="display: none;" id="site_search">
+		<div id="search">
+		<FORM method=GET action="http://www.google.ru/search"><input
+			type=hidden name=ie value=windows-1251> <input type=hidden name=oe
+			value=windows-1251> <input type=text name=q maxlength=100
+			style="width: 225px; margin: 1px;" value=""><input type="image"
+			src="../i/bsl.gif" align="top"> <input type=hidden name=domains
+			value="http://www.dns-shop.ru"> <input type=hidden name=sitesearch
+			value="http://www.dns-shop.ru" checked></FORM>
+		</div>
+		</div>
+		</td>
+	</tr>
+</table>
+<br>
+<script src="../basket.1.js"></script><a href="basket.php"><img align="absmiddle" src="../i/basket.gif"/></a><a href="basket.php"><span id="basket">Корзина пуста</span></a><br><br>
+
+<a href="price_compare.php"><img align="absmiddle" src="../i/cmp4.gif" hspace=3></a>&nbsp;<a href="price_compare.php"><span id="cmp">Список сравнения пуст</span></a></div>
+</div>
+</div>
+</div>
+<div id="shapka_regions" style="display: none;">
+<div id="head" style="background-color: #FFF; height:173px; ">
+<div class="frame">
+<table class="citylists-wrapper" cellpadding=0 cellspacing=0><tr valign="middle"><td align="center">
+<table class="citylist-wrapper"><tr><td class="citylist-wrapper">
+<div class="list"><p><b><A Href="/prim/?ct=1"><nobr>Владивосток</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/abakan/"><nobr>Абакан</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/angar/"><nobr>Ангарск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/arsen/"><nobr>Арсеньев</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/prim/?ct=2"><nobr>Артем</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/achinsk/"><nobr>Ачинск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/bar/"><nobr>Барнаул</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/belovo/"><nobr>Белово</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/biysk/"><nobr>Бийск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/amur/"><nobr>Благовещенск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/bratsk/"><nobr>Братск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/volga/"><nobr>Волгоград</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/volgsk/"><font color=red><nobr>Волжский</nobr></font></A></p></b></div>
+</td><td class="citylist-wrapper"><div class="list"><p><b><A Href="/voron/"><font color=red><nobr>Воронеж</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/ural/"><nobr>Екатеринбург</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/izhevsk/"><font color=red><nobr>Ижевск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/irk/"><nobr>Иркутск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kazan/"><nobr>Казань</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kamensk/"><font color=red><nobr>Каменск-Уральский</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kansk/"><font color=red><nobr>Канск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kemer/"><nobr>Кемерово</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kom/"><nobr>Комсомольск-на-Амуре</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/krasnodar/"><nobr>Краснодар</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kras/"><nobr>Красноярск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kurgan/"><font color=red><nobr>Курган</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/leninsk/"><nobr>Ленинск-Кузнецкий</nobr></A></p></b></div>
+</td><td class="citylist-wrapper"><div class="list"><p><b><A Href="/magnit/"><font color=red><nobr>Магнитогорск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/mezhdu/"><nobr>Междуреченск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/nch/"><font color=red><nobr>Набережные Челны</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/prim/?ct=4"><nobr>Находка</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/nn/"><nobr>Нижний Новгород</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/nt/"><nobr>Нижний Тагил</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/na/"><font color=red><nobr>Новоалтайск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/kem/"><nobr>Новокузнецк</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/novosib/"><nobr>Новосибирск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/omsk/"><nobr>Омск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/orenburg/"><font color=red><nobr>Оренбург</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/pu/"><font color=red><nobr>Первоуральск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/perm/"><nobr>Пермь</nobr></A></p></b></div>
+</td><td class="citylist-wrapper"><div class="list"><p><b><A Href="/prokop/"><nobr>Прокопьевск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/rostov/"><nobr>Ростов-на-Дону</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/rub/"><font color=red><nobr>Рубцовск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/rz/"><font color=red><nobr>Рязань</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/samara/"><nobr>Самара</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/saratov/"><font color=red><nobr>Саратов</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/seversk/"><font color=red><nobr>Северск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/sochi/"><font color=red><nobr>Сочи</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/tg/"><font color=red><nobr>Таганрог</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/tol/"><nobr>Тольятти</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/tomsk/"><nobr>Томск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/tula/"><font color=red><nobr>Тула</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/tumen/"><font color=red><nobr>Тюмень</nobr></font></A></p></b></div>
+</td><td class="citylist-wrapper"><div class="list"><p><b><A Href="/bur/"><nobr>Улан-Удэ</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/ul/"><font color=red><nobr>Ульяновск</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/us/"><font color=red><nobr>Усолье-Сибирское</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/prim/?ct=3"><nobr>Уссурийск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/ufa/"><nobr>Уфа</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/khb/"><nobr>Хабаровск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/cheb/"><font color=red><nobr>Чебоксары</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/chel/"><nobr>Челябинск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/chita/"><nobr>Чита</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/shah/"><font color=red><nobr>Шахты</nobr></font></A></p></b></div>
+
+<div class="list"><p><b><A Href="/sakh/"><nobr>Южно-Сахалинск</nobr></A></p></b></div>
+
+<div class="list"><p><b><A Href="/yakut/"><font color=red><nobr>Якутск</nobr></font></A></p></b></div>
+</td></tr></table>
+</td></tr></table>
+</div>
+</div>
+</div>
+
+<div id="menu_container">
+<ul id="nav">
+	<li><a href="price.php">Каталог</a>
+	<ul>
+		<li><a href="price_new.php">Новинки!</a></li>
+		<li><a href="price.php">Товары со скидкой</a>
+		<ul>
+    <li><a href="search.php?ct=6&skidka=on">Иркутск</a></li>
+    </ul>
+		</li>
+    <li><a href="price.php?c=7000002">Компьютеры</a>
+<ul>
+<li><a href="price.php?c=7000002">Настольные</a></li>
+<li><a href="search.php?q=%ED%EE%F3%F2%E1%F3%EA+dns" style="color:red">Ноутбуки DNS</a></li>
+<li><a href="price.php?c=7000004">Ноутбуки</a></li>
+<li><a href="price.php?c=7000134">Сумки для ноутбуков</a></li>
+<li><a href="price.php?c=7000064">Программное обеспечение</a></li>
+</ul>
+</li><li><a href="price.php?c=7000116">Фото и видеокамеры</a>
+<ul>
+<li><a href="price.php?c=7000116">Цифровые фотокамеры</a></li>
+<li><a href="price.php?c=7000117">Цифровые видеокамеры</a></li>
+<li><a href="price.php?c=7000119">Web-камеры</a></li>
+<li><a href="price.php?c=7000139">Цифровые фоторамки</a></li>
+<li><a href="price.php?c=7000121">Аксессуары и сумки</a></li>
+</ul>
+</li><li><a href="price.php?c=7000083">Аудио-видео</a>
+<ul>
+<li><a href="price.php?c=7000083">ЖК-телевизоры</a></li>
+<li><a href="price.php?c=7000085">Медиаплейеры</a></li>
+<li><a href="price.php?c=7000088">Акустические системы</a></li>
+<li><a href="price.php?c=7000084">Проекторы, экраны</a></li>
+<li><a href="price.php?c=7000135">Игровые приставки</a></li>
+<li><a href="price.php?c=7000087">MP3 Flash/HDD плейеры, диктофоны</a></li>
+<li><a href="price.php?c=7000089">Наушники, микрофоны</a></li>
+<li><a href="price.php?c=7000091">MIDI клавиатуры</a></li>
+<li><a href="price.php?c=7000086">Аксессуары</a></li>
+</ul>
+</li><li><a href="price.php?c=7000104">Мобильность и GPS</a>
+<ul>
+<li><a href="price.php?c=7000104">Сотовые телефоны</a></li>
+<li><a href="price.php?c=7000103">Коммуникаторы и смартфоны</a></li>
+<li><a href="price.php?c=7000102">Электронные книги и КПК</a></li>
+<li><a href="price.php?c=7000140">Электронные переводчики</a></li>
+<li><a href="price.php?c=7000105">GPS оборудование</a></li>
+<li><a href="price.php?c=7000122">Аксессуары</a></li>
+</ul>
+</li><li><a href="price.php?c=7000133">Серверы</a>
+<ul>
+<li><a href="price.php?c=7000133">Комплектующие</a></li>
+</ul>
+</li><li><a href="price.php?c=7000007">Комплектующие</a>
+<ul>
+<li><a href="price.php?c=7000007">Процессоры</a></li>
+<li><a href="price.php?c=7000048">Оперативная память</a></li>
+<li><a href="price.php?c=7000008">Материнские платы</a></li>
+<li><a href="price.php?c=7000009">Видеоадаптеры</a></li>
+<li><a href="price.php?c=7000029">Жесткие диски</a></li>
+<li><a href="price.php?c=7000030">CD, DVD, FDD</a></li>
+<li><a href="price.php?c=7000011">TV-тюнеры, звуковые платы, контроллеры</a></li>
+<li><a href="price.php?c=7000066">Моддинг, системы охлаждения</a></li>
+<li><a href="price.php?c=7000031">Корпуса, БП</a></li>
+</ul>
+</li><li><a href="price.php?c=7000095">Оргтехника</a>
+<ul>
+<li><a href="price.php?c=7000095">Факсы, телефоны, АТС</a></li>
+<li><a href="price.php?c=7000096">Торговое оборудование</a></li>
+<li><a href="price.php?c=7000097">Офисное оборудование и канцелярия</a></li>
+</ul>
+</li><li><a href="price.php?c=7000033">Периферия</a>
+<ul>
+<li><a href="price.php?c=7000033">Мониторы</a></li>
+<li><a href="price.php?c=7000036">Принтеры и сканеры</a></li>
+<li><a href="price.php?c=7000092">Многофункциональные устройства</a></li>
+<li><a href="price.php?c=7000034">Клавиатуры, мыши, манипуляторы</a></li>
+<li><a href="price.php?c=7000043">USB-флэшки и карты памяти</a></li>
+<li><a href="price.php?c=7000038">Источники питания, ИБП</a></li>
+</ul>
+</li><li><a href="price.php?c=7000045">Расходные материалы</a>
+<ul>
+<li><a href="price.php?c=7000045">Расходные к принтерам</a></li>
+<li><a href="price.php?c=7000046">Дискеты, компакт-диски, аксессуары</a></li>
+</ul>
+</li><li><a href="price.php?c=7000125">Сети и коммутация</a>
+<ul>
+<li><a href="price.php?c=7000125">Сетевые карты</a></li>
+<li><a href="price.php?c=7000127">Роутеры и межсетевые экраны</a></li>
+<li><a href="price.php?c=7000124">Модемы, устройства xDSL</a></li>
+<li><a href="price.php?c=7000128">Беспроводные устройства</a></li>
+<li><a href="price.php?c=7000123">Модемы GPRS/EDGE,3G,WiMax/4G</a></li>
+<li><a href="price.php?c=7000126">Коммутаторы и модули</a></li>
+<li><a href="price.php?c=7000129">Прочие сетевые устройства</a></li>
+<li><a href="price.php?c=7000110">Сетевой кабель, инструмент</a></li>
+<li><a href="price.php?c=7000112">Кабели и шлейфы</a></li>
+<li><a href="price.php?c=7000111">Розетки, переключатели, разное</a></li>
+</ul>
+</li><li><a href="price.php?c=7000100">Аксессуары</a>
+<ul>
+<li><a href="price.php?c=7000100">Полезные мелочи</a></li>
+</ul>
+</li><li><a href="price.php?c=7000138">Уцененные товары</a>
+<ul>
+<li><a href="price.php?c=7000138">Уцененные товары</a></li>
+</ul>
+</li>  <li><a href="http://support.dns-shop.ru/" style="color: red">Скачать
+		драйверы</a></li>
+	</ul>
+	</li>
+	<li><a href="shop.php?ct=6">Магазины</a>
+	<ul>
+  <li><a href="shop.php?id=64">ТЦ «Олимп»</a></li>
+<li><a href="shop.php?id=21">«На Фурье»</a></li>
+<li><a href="shop.php?id=25">«На Cоветской»</a></li>
+<li><a href="shop.php?id=13">«На Байкальской»</a></li>
+<li><a href="shop.php?id=12">«На Киевской»</a></li>
+<li><a href="shop.php?id=77">ТЦ «Версаль»</a></li>
+<li><a href="shop.php?id=195">«На Чайке»</a></li>
+<li><a href="shop.php?id=230">БЦ «Собрание»</a></li>
+  </ul>
+	</li>
+	<li><a href="about.php">О&nbsp;компании</a>
+	<ul>
+		<li><A Href="partners.php">Наши партнеры</A></li>
+		<li><A Href="http://support.dns-shop.ru/">Техподдержка</A>
+		<ul>
+			<li><a href="http://support.dns-shop.ru/service.php">Сервисные центры</a></li>
+			<li><a href="http://forum.dns-shop.ru/viewforum.php?f=73">Форум техподдержки</a></li>
+			<li><a href="http://support.dns-shop.ru/catalog.php" style="color: red">Скачать драйверы</a></li>
+		</ul>
+		</li>
+		<li><A Href="vacancy.php">Вакансии</A></li>
+		<li><A Href="feedback.php">Обратная связь</A></li>
+		<li><A Href="http://forum.dns-shop.ru/viewforum.php?f=288">Вопросы и ответы</A></li>
+		<li><A Href="http://forum.dns-shop.ru/viewforum.php?f=290">Жалобы и предложения</A></li>
+		<li><A Href="http://forum.dns-shop.ru/viewforum.php?f=289">Рекламные акции</A></li>
+	</ul>
+	</li>
+	<li><A Href=#>Услуги</A>
+	<ul>
+      <li><A Href="discount.php">Скидки</A></li>      <li><A Href="credit.php">Кредиты</A></li>
+		<li><a href="present_card.php" style="color: red">Подарочные карты</a></li>
+		<li><a href="adv.php">Реклама&nbsp;на&nbsp;сайте</a></li>
+	</ul>
+	</li>
+    <li><a href="corp.php">Корпоративный&nbsp;отдел</a></li>
+    <li><a href="news.php">Новости</A>
+	<ul>
+		<li><A Href="/news_xml.php?region=3"> <img
+			src="/up/rss.jpg" title='Лента новостей RSS'> Лента новостей RSS</A></li>
+	</ul>
+	</li>
+	<li><a href="http://forum.dns-shop.ru/">Форум</a></li>
+	<li><a href="http://blog.dns-shop.ru/">Блог</a>
+	<ul>
+		<li><A Href="http://blog.dns-shop.ru/rss/"> <img src="/up/rss.jpg"
+			title='Лента статей RSS'> Лента статей RSS</A></li>
+	</ul>
+	</li>
+  </ul>
+<div
+	style='height: 22px; float: right; vertical-align: middle; font-size: 16px; background: #FCC;'>&nbsp;<A
+	Href="shop.php"
+	title="Единая справочная">(3952) 20-70-93</A>&nbsp;</div>
+</div>
+<div id="content"><script>var r=3;var s=[[64,"О","ТЦ «Олимп», ул. Киевская, 24"],[21,"Ф","«На Фурье», ул. Фурье, 10"],[25,"С","«На Cоветской», ул, Советская, 73"],[13,"Б","«На Байкальской», ул. Байкальская, 107а"],[12,"К","«На Киевской», ул. Киевская, 7"],[77,"В","ТЦ «Версаль», ул. Академическая, 31, 2 этаж"],[195,"Ч","«На Чайке», ул. 2-я Железнодорожная, 76"],[230,"Сб","БЦ «Собрание», ул. Карла Маркса, 40"]];</script><script src="../price.4.shop.js"></script><div id="path"><span><a href="index.php">Главная</a> /</span><span><a href="price.php">Каталог</a> /</span><span><a href="price.php?c=7000005">Комплектующие</a> /</span></div><p class="sibling_categories"><a href="price.php?c=7000030&order=">CD, DVD, FDD</a>, <a href="price.php?c=7000011&order=">TV-тюнеры, звуковые платы, контроллеры</a>, <a href="price.php?c=7000009&order=">Видеоадаптеры</a>, <a href="price.php?c=7000029&order=">Жесткие диски</a>, <a href="price.php?c=7000031&order=">Корпуса, БП</a>, <a href="price.php?c=7000008&order=">Материнские платы</a>, <a href="price.php?c=7000066&order=">Моддинг, системы охлаждения</a>, <a href="price.php?c=7000048&order=">Оперативная память</a>, <span class="a">Процессоры</span></p><div style="color: #999999; font-size: 10px;">
+		        Каталог на сайте обновляется раз в сутки, для уточнения наличия товара в
+		        магазине на текущий момент просьба обращаться в нужный вам филиал по
+		        телефону.</div><h1>Процессоры</h1><table id="price" class="pt"><script>t(7000007);h(0,1151,"13. Процессоры");h(1,23582,"01. Процессоры AMD Sempron   AM3");d(0,1,"Процессор AMD Sempron 140 2.7 GHz 1Mb Socket-AM3  OEM",[1,0,0,0,0,0,0,0],1,"1 055","",0,113527,188,"0");
+d(1,1,"Процессор AMD Sempron 140 2.7 GHz 1Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"1 299","",0,113528,58,"0");
+d(0,1,"Процессор AMD Sempron 145 2.8 GHz 1Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"1 095","",0,120076,69,"0");
+d(1,1,"Процессор AMD Sempron 145 2.8 GHz 1Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"1 399","",0,120077,10,"0");
+h(1,112643,"02. Процессоры AMD Athlon II      AM3");d(0,1,"Процессор AMD Athlon II X2 220 2.8 GHz 1Mb Socket-AM3  OEM",[0,1,1,0,1,1,1,1],6,"1 550","",0,114162,37,"0");
+d(1,1,"Процессор AMD Athlon II X2 240 2.8 GHz 2Mb Socket-AM3  OEM",[1,1,1,1,1,-1,-1,1],8,"1 699","",0,113626,155,"0");
+d(0,1,"Процессор AMD Athlon II X2 245 2.9 GHz 2Mb Socket-AM3  OEM",[1,1,1,1,1,-1,1,1],8,"1 799","",0,113628,29,"0");
+</script><script>d(1,1,"Процессор AMD Athlon II X2 245 2.9 GHz 2Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,0,1],7,"2 299","",0,113629,20,"0");
+d(0,1,"Процессор AMD Athlon II X2 250 3.0 GHz 2Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"1 850","",0,112647,61,"0");
+d(1,1,"Процессор AMD Athlon II X2 250 3.0 GHz 2Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,0,0,1],6,"2 255","",0,112648,153,"0");
+d(0,1,"Процессор AMD Athlon II X2 255 3.1 GHz 2Mb Socket-AM3  OEM",[1,1,1,1,1,0,1,1],7,"2 099","",0,114706,29,"0");
+d(1,1,"Процессор AMD Athlon II X2 255 3.1 GHz 2Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"2 355","",0,114707,2,"0");
+d(0,1,"Процессор AMD Athlon II X2 260 3.2 GHz 2Mb Socket-AM3  OEM",[1,1,0,1,1,0,1,1],6,"2 150","",0,120069,9,"0");
+d(1,1,"Процессор AMD Athlon II X2 260 3.2 GHz 2Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,-1,1,1],8,"2 399","",0,120070,8,"0");
+d(0,1,"Процессор AMD Athlon II X2 265 3.3 GHz 2Mb Socket-AM3  OEM",[1,1,1,1,1,1,0,0],6,"2 355","",0,124793,11,"0");
+d(1,1,"Процессор AMD Athlon II X2 265 3.3 GHz 2Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,0,-1,1],7,"2 699","",0,124794,4,"0");
+d(0,1,"Процессор AMD Athlon II X3 440 3.0 GHz 1.5Mb Socket-AM3  OEM",[1,1,1,1,1,1,-1,1],8,"2 450","",0,118383,95,"0");
+</script><script>d(1,1,"Процессор AMD Athlon II X3 445 3.1 GHz 1.5Mb Socket-AM3  OEM",[1,1,1,1,1,1,-1,1],8,"2 555","",0,120074,27,"0");
+d(0,1,"Процессор AMD Athlon II X3 445 3.1 GHz 1.5Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,0,1],7,"2 775","",0,120075,12,"0");
+d(1,1,"Процессор AMD Athlon II X3 450 3.2 GHz 1.5Mb Socket-AM3  OEM",[1,1,1,1,1,0,-1,1],7,"2 615","",0,124455,17,"0");
+d(0,1,"Процессор AMD Athlon II X3 450 3.2 GHz 1.5Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"2 999","",0,124456,18,"0");
+d(1,1,"Процессор AMD Athlon II X3 455 3.3 GHz 1.5Mb Socket-AM3  OEM",[1,1,1,1,1,0,1,1],7,"2 899","",0,126610,0,"0");
+d(0,1,"Процессор AMD Athlon II X3 455 3.3 GHz 1.5Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"3 199","",0,126611,0,"0");
+d(1,1,"Процессор AMD Athlon II X4 635 2.9 GHz 2Mb Socket-AM3  OEM",[1,0,0,0,0,0,1,1],3,"3 399","",0,118381,26,"0");
+d(0,1,"Процессор AMD Athlon II X4 635 2.9 GHz 2Mb Socket-AM3 BOX w/cooler",[1,0,0,0,0,0,0,0],1,"3 799","",0,118382,16,"0");
+d(1,1,"Процессор AMD Athlon II X4 640 3.0 GHz 2Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"3 499","",0,120072,33,"0");
+d(0,1,"Процессор AMD Athlon II X4 640 3.0 GHz 2Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"3 825","",0,120073,47,"0");
+</script><script>d(1,1,"Процессор AMD Athlon II X4 645 3.1 GHz 2Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"3 799","",0,124453,12,"0");
+d(0,1,"Процессор AMD Athlon II X4 645 3.1 GHz 2Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"4 099","",0,124454,24,"0");
+h(1,463,"03. Процессоры AMD Phenom II   AM3");d(0,1,"Процессор AMD Phenom II X2 555 3.2 GHz 7Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"3 250","",0,120993,127,"0");
+d(1,1,"Процессор AMD Phenom II X2 555 3.2 GHz 7Mb Socket-AM3 Black Edition BOX w/cooler",[1,1,1,1,1,1,1,1],8,"3 699","",0,118380,125,"0");
+d(0,1,"Процессор AMD Phenom II X2 560 3.3 GHz 7Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"3 499","",0,124451,23,"0");
+d(1,1,"Процессор AMD Phenom II X2 560 3.3 GHz 7Mb Socket-AM3 Black Edition BOX w/cooler",[1,1,1,1,1,0,1,1],7,"3 999","",0,124452,3,"0");
+d(0,1,"Процессор AMD Phenom II X2 565 3.4 GHz 7Mb Socket-AM3 Black Edition BOX w/cooler",[1,1,1,1,1,0,1,1],7,"4 199","",0,127116,0,"0");
+d(1,1,"Процессор AMD Phenom II X4 925 2.8 GHz 8Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"4 350","",0,110861,314,"0");
+d(0,1,"Процессор AMD Phenom II X4 945 3.0 GHz 8Mb Socket-AM3  OEM",[1,1,1,1,1,-1,1,1],8,"4 650","",0,112100,160,"0");
+</script><script>d(1,1,"Процессор AMD Phenom II X4 945 3.0 GHz 8Mb Socket-AM3 BOX w/cooler",[0,0,1,0,0,1,0,0],2,"5 399","",0,112101,160,"0");
+d(0,1,"Процессор AMD Phenom II X4 955 3.2 GHz 8Mb Socket-AM3  OEM",[1,1,1,1,1,1,-1,1],8,"4 899","",0,112098,286,"0");
+d(1,1,"Процессор AMD Phenom II X4 955 3.2 GHz 8Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"5 699","",0,112099,344,"0");
+d(0,1,"Процессор AMD Phenom II X4 965 3.4 GHz 8Mb Socket-AM3  OEM",[1,1,1,1,1,1,-1,1],8,"5 255","",0,121572,77,"0");
+d(1,1,"Процессор AMD Phenom II X4 965 3.4 GHz 8Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"5 899","",0,114362,445,"0");
+d(0,1,"Процессор AMD Phenom II X4 970 3.5 GHz 8Mb Socket-AM3  OEM",[1,1,1,1,1,0,-1,1],7,"5 925","",0,124449,28,"0");
+d(1,1,"Процессор AMD Phenom II X4 970 3.5 GHz 8Mb Socket-AM3 Black Edition BOX w/cooler",[1,1,1,1,1,0,1,1],7,"6 599","",0,124450,109,"0");
+d(0,1,"Процессор AMD Phenom II X6 1055T 2.8 GHz 9Mb Socket-AM3  OEM",[1,1,1,0,0,1,1,0],5,"6 699","",0,120925,123,"0");
+d(1,1,"Процессор AMD Phenom II X6 1055T 2.8 GHz 9Mb Socket-AM3 BOX w/cooler",[1,1,0,1,1,1,1,1],7,"7 390","",0,120926,218,"0");
+d(0,1,"Процессор AMD Phenom II X6 1075T 3.0 GHz 9Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"6 999","",0,124447,10,"0");
+</script><script>d(1,1,"Процессор AMD Phenom II X6 1075T 3.0 GHz 9Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,1,-1,1],8,"7 599","",0,124448,7,"0");
+d(0,1,"Процессор AMD Phenom II X6 1090T 3.2 GHz 9Mb Socket-AM3  OEM",[1,1,1,1,1,1,1,1],8,"7 855","",0,120927,44,"0");
+d(1,1,"Процессор AMD Phenom II X6 1090T 3.2 GHz 9Mb Socket-AM3 BOX w/cooler",[1,1,1,1,1,0,1,1],7,"8 299","",0,120928,342,"0");
+d(0,1,"Процессор AMD Phenom II X6 1100T 3.3 GHz 9Mb Socket-AM3  OEM",[1,0,0,1,0,0,1,0],3,"8 599","",0,127117,97,"0");
+d(1,1,"Процессор AMD Phenom II X6 1100T 3.3 GHz 9Mb Socket-AM3 BOX w/cooler",[0,1,0,1,0,0,1,0],3,"8 999","",0,127118,25,"0");
+h(1,471,"04. Процессоры Intel Celeron      LGA775");d(0,1,"Процессор Intel Celeron [430] 1.8GHz 800MHz 512Kb LGA775  OEM",[1,1,1,1,1,-1,1,1],8,"1 075","",0,2500644,108,"0");
+d(1,1,"Процессор Intel Celeron [430] 1.8GHz 800MHz 512Kb LGA775 BOX w/cooler",[0,0,0,1,1,0,0,0],2,"1 499","",0,2500641,24,"0");
+d(0,1,"Процессор Intel Celeron [450] 2.2GHz 800MHz 512Kb LGA775  OEM",[1,1,1,1,1,0,-1,1],7,"1 075","",0,107827,7,"0");
+d(1,1,"Процессор Intel Celeron E3400 2.6 GHz 800MHz 1Mb LGA775  OEM",[1,1,1,1,1,1,1,1],8,"1 425","",0,118061,36,"0");
+</script><script>d(0,1,"Процессор Intel Celeron E3400 2.6 GHz 800MHz 1Mb LGA775 BOX w/cooler",[0,0,0,0,0,0,1,0],1,"1 799","",0,118062,4,"0");
+d(1,1,"Процессор Intel Celeron E3500 2.7 GHz 800MHz 1Mb LGA775  OEM",[1,1,1,1,1,0,1,1],7,"1 725","",0,124014,12,"0");
+d(0,1,"Процессор Intel Celeron E3500 2.7 GHz 800MHz 1Mb LGA775 BOX w/cooler",[0,1,1,1,1,1,1,0],6,"2 125","",0,124015,0,"0");
+h(1,494,"05. Процессоры Intel Pentium     LGA775/LGA1156");d(0,1,"Процессор Intel Pentium E5500 2.8 GHz 800MHz 2Mb LGA775  OEM",[1,1,1,1,1,1,1,1],8,"1 970","",0,119635,15,"0");
+d(1,1,"Процессор Intel Pentium E5700 3.0 GHz 800MHz 2Mb LGA775  OEM",[1,0,1,1,1,1,1,0],6,"1 999","",0,124288,8,"0");
+d(0,1,"Процессор Intel Pentium E5700 3.0 GHz 800MHz 2Mb LGA775 BOX w/cooler",[0,0,0,0,0,0,1,0],1,"2 499","",0,124289,9,"0");
+d(1,1,"Процессор Intel Pentium E5800 3.2 GHz 800MHz 2Mb LGA775  OEM",[1,0,0,0,1,0,1,1],4,"2 255","",0,126988,6,"0");
+d(0,1,"Процессор Intel Pentium E5800 3.2 GHz 800MHz 2Mb LGA775 BOX w/cooler",[1,1,0,1,1,0,1,1],6,"2 655","",0,126990,2,"0");
+d(1,1,"Процессор Intel Pentium E6500 2.93 GHz 1066MHz 2Mb LGA775  OEM",[0,0,0,0,0,0,1,0],1,"2 099","",0,113571,74,"2 299");
+</script><script>d(0,1,"Процессор Intel Pentium E6600 3.06 GHz 1066MHz 2Mb LGA775  OEM",[0,0,1,1,1,1,0,0],4,"2 399","",0,118063,34,"0");
+d(1,1,"Процессор Intel Pentium E6700 3.20 GHz 1066MHz 2Mb LGA775  OEM",[1,1,1,1,1,1,1,1],8,"2 699","",0,122220,21,"0");
+d(0,1,"Процессор Intel Pentium E6700 3.20 GHz 1066MHz 2Mb LGA775 BOX w/cooler",[1,0,1,1,1,0,-1,0],5,"2 999","",0,122221,16,"0");
+d(1,1,"Процессор Intel Pentium E6800 3.33 GHz 1066MHz 2Mb LGA775  OEM",[1,1,1,1,1,1,1,1],8,"2 850","",0,124011,39,"0");
+d(0,1,"Процессор Intel Pentium E6800 3.33 GHz 1066MHz 2Mb LGA775 BOX w/cooler",[0,1,1,0,1,0,0,1],4,"3 199","",0,124012,8,"0");
+d(1,1,"Процессор Intel Pentium G6950 2.80GHz 2.5GT/s 3Mb 2xDDR3-1333 Graf-533Mhz LGA1156  OEM",[0,0,0,0,0,0,1,0],1,"2 899","",0,117672,32,"0");
+h(1,512,"06. Процессоры Intel Core          LGA775");d(0,1,"Процессор Intel Core 2 Duo E7500 2.93GHz 1066MHz 3Mb LGA775  OEM",[1,1,1,1,1,1,-1,1],8,"3 599","",0,110148,154,"0");
+d(1,1,"Процессор Intel Core 2 Duo E7500 2.93GHz 1066MHz 3Mb LGA775 BOX w/cooler",[1,0,0,0,0,0,0,0],1,"4 099","",0,110149,33,"0");
+d(0,1,"Процессор Intel Core 2 Duo E8400 3.00GHz 1333MHz 6Mb LGA775  OEM",[1,1,1,1,0,0,1,1],6,"5 355","",0,103006,763,"0");
+</script><script>d(1,1,"Процессор Intel Core 2 Quad Q8400 2.66GHz 1333MHz 4Mb LGA775  OEM",[1,1,1,1,1,-1,-1,1],8,"4 999","",0,111756,77,"0");
+d(0,1,"Процессор Intel Core 2 Quad Q9500 2.83GHz 1333MHz 6Mb LGA775  OEM",[1,1,0,0,0,0,0,1],3,"6 555","",0,117767,145,"0");
+h(1,113584,"07. Процессоры Intel Core i3/i5  LGA1156");d(0,1,"Процессор Intel Core i3-540 3.06GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156  OEM",[-1,1,1,-1,1,1,1,1],8,"3 775","",0,117646,121,"0");
+d(1,1,"Процессор Intel Core i3-540 3.06GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156 BOX w/cooler",[1,0,1,-1,1,1,1,1],7,"4 255","",0,117664,21,"0");
+d(0,1,"Процессор Intel Core i3-550 3.20GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156  OEM",[1,1,1,1,1,1,1,1],8,"3 999","",0,122222,6,"0");
+d(1,1,"Процессор Intel Core i3-550 3.20GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156 BOX w/cooler",[1,1,1,1,1,1,0,1],7,"4 699","",0,122223,4,"0");
+d(0,1,"Процессор Intel Core i3-560 3.33GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156  OEM",[1,1,1,1,1,1,1,1],8,"4 999","",0,123993,11,"0");
+d(1,1,"Процессор Intel Core i3-560 3.33GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"5 555","",0,123994,0,"0");
+d(0,1,"Процессор Intel Core i5-650 3.20GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156  OEM",[0,1,0,1,0,1,1,1],5,"6 255","",0,117644,51,"0");
+</script><script>d(1,1,"Процессор Intel Core i5-650 3.20GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156 BOX w/cooler",[0,0,0,1,0,1,1,0],3,"6 799","",0,117665,36,"0");
+d(0,1,"Процессор Intel Core i5-655K 3.20GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156  OEM",[0,0,0,0,0,0,0,1],1,"7 599","",0,123056,6,"0");
+d(1,1,"Процессор Intel Core i5-660 3.33GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-733Mhz LGA1156  OEM",[1,1,0,0,1,0,0,1],4,"7 099","",0,117666,28,"0");
+d(0,1,"Процессор Intel Core i5-661 3.33GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-900Mhz LGA1156  OEM",[0,1,1,0,1,0,1,1],5,"6 999","",0,117668,19,"0");
+d(1,1,"Процессор Intel Core i5-661 3.33GHz 2.5GT/s 4Mb 2xDDR3-1333 Graf-900Mhz LGA1156 BOX w/cooler",[0,0,0,1,0,0,1,1],3,"7 899","",0,117669,3,"0");
+d(0,1,"Процессор Intel Core i5-760 2.80GHz 2.5GT/s 8Mb 2xDDR3-1333 LGA1156  OEM",[1,1,1,1,1,1,1,1],8,"7 299","",0,122519,198,"0");
+d(1,1,"Процессор Intel Core i5-760 2.80GHz 2.5GT/s 8Mb 2xDDR3-1333 LGA1156 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"7 899","",0,122520,76,"0");
+h(1,108117,"08. Процессоры Intel Core i7      LGA1366/LGA1156");d(0,1,"Процессор Intel Core i7 Extreme i7-980X 3.33GHz 6.4GT/s 12Mb 3xDDR3-1333 LGA1366  OEM",[1,0,0,0,0,0,0,0],1,"34 555","",0,119634,400,"0");
+d(1,1,"Процессор Intel Core i7-870 2.93GHz 2.5GT/s 8Mb 2xDDR3-1333 LGA1156 BOX w/cooler",[1,1,1,1,1,1,-1,1],8,"10 255","",0,113578,45,"0");
+</script><script>d(0,1,"Процессор Intel Core i7-880 3.06GHz 2.5GT/s 8Mb 2xDDR3-1333 LGA1156  OEM",[1,0,0,0,0,0,0,0],1,"18 999","",0,124832,7,"0");
+d(1,1,"Процессор Intel Core i7-930 2.8GHz 4.8GT/s 8Mb 3xDDR3-1066 LGA1366  OEM",[1,1,1,1,0,1,0,1],6,"9 375","",0,119661,271,"0");
+d(0,1,"Процессор Intel Core i7-950 3.06GHz 4.8GT/s 8Mb 3xDDR3-1066 LGA1366  OEM",[-1,1,1,1,1,1,1,1],8,"9 899","",0,112165,160,"0");
+d(1,1,"Процессор Intel Core i7-960 3.2GHz 4.8GT/s 8Mb 3xDDR3-1066 LGA1366  OEM",[1,1,0,0,1,0,-1,0],4,"10 555","",0,116160,113,"0");
+d(0,1,"Процессор Intel Core i7-970 3.2GHz 4.8GT/s 12Mb 3xDDR3-1066 LGA1366  OEM",[1,0,0,0,0,0,1,0],2,"22 999","",0,124109,62,"28 999");
+h(1,126802,"09. Процессоры Intel Core i        LGA1155");d(0,1,"Процессор Intel Core i3-2100 3.1GHz  3Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155  OEM",[1,1,1,1,1,1,1,1],8,"3 999","",0,128615,15,"0");
+d(1,1,"Процессор Intel Core i3-2100 3.1GHz  3Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"4 499","",0,128616,0,"0");
+d(0,1,"Процессор Intel Core i3-2120 3.3GHz  3Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155 BOX w/cooler",[1,1,1,1,1,1,1,1],8,"5 399","",0,128619,0,"0");
+d(1,1,"Процессор Intel Core i5-2300 2.8GHz  6Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155  OEM",[1,1,1,1,1,1,1,1],8,"5 899","",0,126812,158,"0");
+</script><script>d(0,1,"Процессор Intel Core i5-2300 2.8GHz  6Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155 BOX w/cooler",[1,1,1,1,1,0,1,1],7,"6 599","",0,126813,25,"0");
+d(1,1,"Процессор Intel Core i5-2400 3.1GHz  6Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155  OEM",[1,1,0,1,1,1,1,1],7,"6 499","",0,126810,32,"0");
+d(0,1,"Процессор Intel Core i5-2400 3.1GHz  6Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155 BOX w/cooler",[1,1,1,0,1,1,1,1],7,"6 899","",0,126811,1,"0");
+d(1,1,"Процессор Intel Core i5-2500 3.3GHz  6Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155  OEM",[1,1,1,1,1,1,1,1],8,"7 199","",0,126808,218,"0");
+d(0,1,"Процессор Intel Core i5-2500 3.3GHz  6Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155 BOX w/cooler",[0,0,0,0,0,0,1,0],1,"7 699","",0,126807,35,"0");
+d(1,1,"Процессор Intel Core i7-2600 3.4GHz  8Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155  OEM",[1,1,1,1,1,-1,1,1],8,"10 755","",0,126805,91,"0");
+d(0,1,"Процессор Intel Core i7-2600 3.4GHz  8Mb 2xDDR3-1333 Graf-850/1100Mhz  LGA1155 BOX w/cooler",[1,1,1,0,1,0,1,1],6,"11 555","",0,126804,76,"0");
+h(1,544,"10. Распродажа");d(0,1,"Процессор Intel Pentium E6600 3.06 GHz 1066MHz 2Mb LGA775 BOX w/cooler",[1,0,0,0,0,0,0,0],1,"2 555","",0,118064,14,"2 955");
+</script></table><table style="margin-left:5px;margin-top:15px;"><tr><td class="small g"><sup>*</sup> Для юридических лиц стоимость увеличивается на 3% при оформлении покупки по безналичному расчёту (через банковский перевод)</td></table><table style="margin-left:5px;margin-top:15px;"><tr><td><img valign="absmiddle" src="../i/ref.gif"/></td><td class="small g">Каталог обновлён &#151; 11 марта</td></table></div><script>var cmp_count=0; setTimeout("sel()",1000); function sel(){}</script><div id="bottom">
+	<div class="counters">
+<!-- begin of Top100 logo -->
+<img src="http://counter.rambler.ru/top100.cnt?1351430&1299812888" width="1" height="1" border="0" />
+<a href="http://top100.rambler.ru/home?id=1351430"><img src="http://top100-images.rambler.ru/top100/banner-88x31-rambler-darkblue2.gif?1299812888" alt="Rambler's Top100" width="88" height="31" border="0" /></a>
+<!-- end of Top100 logo -->
+
+<!--LiveInternet counter--><script type="text/javascript"><!--
+document.write("<a href='http://www.liveinternet.ru/click' "+
+"target=_blank><img src='http://counter.yadro.ru/hit?t17.11;r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random()+
+"' alt='' title='LiveInternet: показано число просмотров за 24"+
+" часа, посетителей за 24 часа и за сегодня' "+
+"border=0 width=88 height=31><\/a>")//--></script><!--/LiveInternet-->
+
+
+<!--Rating@Mail.ru COUNTER--><script language="JavaScript" type="text/javascript"><!--
+d=document;var a='';a+=';r='+escape(d.referrer)
+js=10//--></script><script language="JavaScript1.1" type="text/javascript"><!--
+a+=';j='+navigator.javaEnabled()
+js=11//--></script><script language="JavaScript1.2" type="text/javascript"><!--
+s=screen;a+=';s='+s.width+'*'+s.height
+a+=';d='+(s.colorDepth?s.colorDepth:s.pixelDepth)
+js=12//--></script><script language="JavaScript1.3" type="text/javascript"><!--
+js=13//--></script><script language="JavaScript" type="text/javascript"><!--
+d.write('<IMG src="http://db.c7.b3.a1.top.list.ru/counter'+
+'?id=1276673;js='+js+a+';rand='+Math.random()+
+'" height=1 width=1/>')
+if(11<js)d.write('<'+'!-- ')//--></script><noscript><img
+src="http://db.c7.b3.a1.top.list.ru/counter?js=na;id=1276673"
+height=1 width=1 alt=""/></noscript><script language="JavaScript" type="text/javascript"><!--
+if(11<js)d.write('--'+'>')//--></script><!--/COUNTER-->
+
+<!--Rating@Mail.ru LOGO--><a target=_top
+href="http://top.mail.ru/jump?from=1276673"><img
+SRC="http://db.c7.b3.a1.top.list.ru/counter?id=1276673;t=48;l=1"
+border=0 height=31 width=88
+alt="Рейтинг@Mail.ru"/></a><!--/LOGO-->
+
+<!-- vlrate script start  -->
+<!--script src="http://top10.vl.ru/script.js" type="text/javascript"></script-->
+<!--script type="text/javascript"> PageName="USE+TITLE";sid="6194ca99-a018-48fa-8e1c-9bdf02c29b9d";PageUrl="";IsNotFoundPage=false;IsErrorPage=false;collect();</script-->
+<noscript><a href="http://www.vl.ru/"><img id="vlrateButton" alt="Владивосток Top10" src="http://dc1.top10.vl.ru/hh.hit?sid=6194ca99-a018-48fa-8e1c-9bdf02c29b9d&pn=USE+TITLE&tp=false&nf=false&ep=false&r=&je=0&ce=0&sw=0&sh=0&cd=0&ns=1" border="0" width="88" height="31" />Владивосток/Vladivostok Top10</a></noscript>
+<!-- vlrate script end -->
+
+<!-- Google Analitic \\\\ -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-8349380-2");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<!-- Google Analitic //// -->
+<!-- YaMetrics begin -->
+<script type="text/javascript"><!--
+var ya_cid=90689;
+//--></script>
+<script src="http://bs.yandex.ru/resource/watch.js" type="text/javascript"></script> <noscript><div style="display: inline;"><img src="http://bs.yandex.ru/watch/90689" width="1" height="1" alt=""></div></noscript>
+<!-- YaMetrics end --></div>
+	<div>&copy; 2002 &#151; 2011 Компания DNS &#160;&#160;&#160; </div>
+	<div><font size=-2><A Href=feedback.php?theme=7>Сообщить о некорректной информации на странице</A><br>Выделите текст c ошибкой и нажмите Ctrl+Enter</font></div>
+</div>
+<script language="JavaScript" src="/lib/iload/iLoad.js"></script>
+</body>
+</html>
+
+

@@ -1,0 +1,45 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="ru">
+<head>
+    {% include "css_meta.html" %}
+    <title>{% block title %}irkonline.info | Поиск товаров в Иркутске | Купить в Иркутске{% endblock %}</title>
+</head>
+<body>
+	{% include "top_menu.html" %}
+	<table width="1200" border="0" cellspacing="0" cellpadding="0" align="left" class="cf99">
+		<tr>
+			<td>
+				{% block content %}{% endblock %}
+			</td>
+		</tr>
+		<tr>
+			<td colspan=3  style="padding:10px 10px 10px 10px;">
+				<center>
+					{% include "down_menu.html" %}
+				</center>
+			</td>
+		</tr>
+		<noindex>
+		<tr>
+			<td>
+				<center>
+					{% include "ya.html" %}   					
+				</center> 
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<center>
+					{% include "li.html" %}
+				</center>
+			</td>
+		</tr>
+		</noindex>
+	</table>
+
+   
+
+    {% block footer %}{% endblock %}
+    {% include "js.html" %}
+</body>
+</html>

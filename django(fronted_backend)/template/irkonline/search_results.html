@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+{% load filters %}
+{% block title %} Поиск "{{ query }}" | irkonline.info | Поиск товаров в Иркутске | Купить в Иркутске{% endblock %}
+{%block content %}
+    <table width="80%" align="left" varign="top" border="0" cellspacing="0" cellpadding="0">
+        <tr>
+            <td id="one" align="right" style="padding:10px 0px 5px 10px;"><a href="#"><img src="/static/img/logo_m.png" border="0" title="" alt="irkonline.info"></a></td>
+            <td id="two" align="left" valign="middle" style="padding:10px 5px 5px 0px;">
+                {% include "s_form.html" %}
+            </td>
+        </tr>
+        <tr>
+            <td></td>
+            <td align="left" style="padding:0px 0px 0px 10px;">
+{% if goods %}
+               <span class="c_grey"><p>Результатов поиска: {{ goods|length }}</p></span>
+            </td>
+    </tr>
+    <tr>
+        <td valign="top">
+        </td>
+        <td valign="top">
+    {% load pagination_tags %}
+        {% autopaginate goods 2 %}
+           {% for good in goods %}
+		<div class="menubg_cat">
+			<table width="100%" cellspacing="0" cellpadding="0" border="0"> 
+				<tr>
+					<td>&nbsp</td>
+					<td>
+              					<table width="100%" border="0" align="left" varign="top" class="tabimg">
+                  					<tr>
+                      						<td valign="top" class="pimage" target="_blank" border="0" width="80" height="100"><img src="{{ good.img_url }}"></td>
+                      						<td width="100%" class="pdescr"><span><a href="#">{{ good.sphinx.passages.name|safe }}</a></span><div>{{ good.sphinx.passages.descr|safe }}</div>{% if good.prod_url %}<font color="#67A54B"><div>{{ good.sphinx.passages.prod_url|slice_url|safe }}...</div></font>{% endif %}
+		      							{% if good.descr2  %}{% include "descr2.html" %}{% endif %} 
+									<div class="prate"><strong>Продавец:</strong> <span class="vend_green">{{ good.id|seller }}</span></ br></div>
+								</td>
+                      						<td class="poffers"><div class="pprice">{{ good.price }}p.</div><input type="button" value="Показать" onclick="window.location.href='{{ good.prod_url }}'";></br></td>
+                  					</tr>
+							<tr>
+								<td valign="top" class="pline" colspan="4"></td>
+							</tr>
+
+              					</table>
+					</td>
+				</tr>
+			</table>
+		</div>
+           {% endfor %}
+           {% paginate %}    
+        </td>
+        <td valign="top" style="padding:0px 0px 0px 50px;">
+		{% include "google_as.html" %}
+	</td>
+    </tr>    
+</table>        
+{% else %}
+                <p>Не найдено ни одного товара</p>
+            </td>
+        </tr>
+    </table>
+{% endif %}
+    
+{%endblock%}

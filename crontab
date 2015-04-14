@@ -1,0 +1,56 @@
+# /etc/crontab - root's crontab for FreeBSD
+#
+# $FreeBSD: src/etc/crontab,v 1.32.24.1.4.1 2010/12/21 17:10:29 kensmith Exp $
+#
+SHELL=/bin/sh
+PATH=/etc:/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin
+#
+#minute	hour	mday	month	wday	who	command
+#
+*/5	*	*	*	*	root	/usr/libexec/atrun
+#
+# Save some entropy so that /dev/random can re-seed on boot.
+7*/11	*	*	*	*	operator /usr/libexec/save-entropy
+#
+# Rotate log files every hour, if necessary.
+0	*	*	*	*	root	newsyslog
+#
+# Perform daily/weekly/monthly maintenance.
+1	3	*	*	*	root	periodic daily
+15	4	*	*	6	root	periodic weekly
+30	5	1	*	*	root	periodic monthly
+#37	11	*	*	*	root	periodic 00-00-03-00-spiders
+#1	3	*	*	*	root	periodic 03-00-09-00-spiders
+#1	9	*	*	*	root	periodic 09-00-23-00-spiders
+#30	23	*	*	*	root	periodic sync
+#
+# Adjust the time zone if the CMOS clock keeps local time, as opposed to
+# UTC time.  See adjkerntz(8) for details.
+1,31	0-5	*	*	*	root	adjkerntz -a
+#
+#
+#
+##### spiders run small 00:00 - 03:00 ##############
+1	0	*	*	1-6	root	/usr/local/project/irtoys/start_irtoys.sh
+15	0	*	*	1-6	root	/usr/local/project/sibmuztorg/start_sibmuztorg.sh
+25	0	*	*	1-6	root	/usr/local/project/pokupok38/start_38pokupok.sh
+35	0	*	*	1-6	root	/usr/local/project/africa/start_africa.sh
+##### restoran/kafe #################################
+35	0	*	*	2,0	root	/usr/local/project/kyoto/start_kyoto.sh
+40	0	*	*	2,0	root	/usr/local/project/sushied/start_sushied.sh
+#### spiders run medium 03:00 - 09:00 ##############
+1	3	*	*	1-6	root	/usr/local/project/positronica/start_positronica.sh
+15	3	*	*	1-6	root	/usr/local/project/asiamusic/start_asiamusic.sh
+30	3	*	*	1-6	root	/usr/local/project/detplanet/start_detplanet.sh
+45	3	*	*	1-6	root	/usr/local/project/china38/start_china38.sh
+1	4	*	*	1-6	root	/usr/local/project/detki38/start_detki38.sh
+#### spiders run big 09:00 - 23:00 #################
+1	9	*	*	1-6	root	/usr/local/project/dns/start_dns.sh
+15	9	*	*	1-6	root	/usr/local/project/irkshop/start_irkshop.sh
+#### spiders run superbig 00:00 - 23:00 #################
+1	0	*	*	0	root	/usr/local/project/prodalit/start_prodalit.sh
+#### run sync db, suggest 23:00 - 23:50 #################
+15	23	*	*	*	root	/usr/local/scripts/irkonline.sh
+30	23	*	*	*	root	/usr/local/scripts/suggestio_send.sh
+#### kill spiders 23:10 #################
+10	23	*	*	*	root	/usr/bin/killall python
